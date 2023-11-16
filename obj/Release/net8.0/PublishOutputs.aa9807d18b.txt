@@ -1,0 +1,7 @@
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\MintPsyBlog.exe
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\MintPsyBlog.dll
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\MintPsyBlog.deps.json
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\MintPsyBlog.runtimeconfig.json
+C:\Users\Mint\Desktop\Projects\MintPsyBlog\obj\Release\net8.0\PubTmp\Out\MintPsyBlog.pdb
