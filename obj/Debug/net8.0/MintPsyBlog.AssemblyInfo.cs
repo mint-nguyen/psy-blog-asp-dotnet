@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MintPsyBlog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d692149ffd967a0181300b7557403290e1f1a4e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MintPsyBlog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MintPsyBlog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

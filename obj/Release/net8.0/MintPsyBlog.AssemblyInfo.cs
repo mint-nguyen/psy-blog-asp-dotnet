@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MintPsyBlog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c747ccbc636b3f4f404bbae94ccaa5c59ae369ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e8df64b2b45e55304a8ae3aa0676902947e53b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MintPsyBlog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MintPsyBlog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

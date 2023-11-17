@@ -13,8 +13,132 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\abuse.jpg",
+      "PackagePath": "staticwebassets\\images\\abuse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\alcoholism",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\alcoholism.jpg",
+      "PackagePath": "staticwebassets\\images\\alcoholism.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\anger.jpg",
+      "PackagePath": "staticwebassets\\images\\anger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\antianxiety.jpg",
+      "PackagePath": "staticwebassets\\images\\antianxiety.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\art.jpg",
+      "PackagePath": "staticwebassets\\images\\art.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\baby.jpg",
+      "PackagePath": "staticwebassets\\images\\baby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\bipolar.jpg",
+      "PackagePath": "staticwebassets\\images\\bipolar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\cancer.jpg",
+      "PackagePath": "staticwebassets\\images\\cancer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\confusion.jpg",
+      "PackagePath": "staticwebassets\\images\\confusion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\decade.jpg",
+      "PackagePath": "staticwebassets\\images\\decade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\depression.jpg",
+      "PackagePath": "staticwebassets\\images\\depression.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\diet.jpg",
+      "PackagePath": "staticwebassets\\images\\diet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\dignity.jpg",
+      "PackagePath": "staticwebassets\\images\\dignity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\disorder.jpg",
+      "PackagePath": "staticwebassets\\images\\disorder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\fear.jpg",
+      "PackagePath": "staticwebassets\\images\\fear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\gambling.jpg",
+      "PackagePath": "staticwebassets\\images\\gambling.jpg"
+    },
+    {
       "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\hero.png",
       "PackagePath": "staticwebassets\\images\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\journey.jpg",
+      "PackagePath": "staticwebassets\\images\\journey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\life.jpg",
+      "PackagePath": "staticwebassets\\images\\life.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\mania.jpg",
+      "PackagePath": "staticwebassets\\images\\mania.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\mask.jpg",
+      "PackagePath": "staticwebassets\\images\\mask.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\mental.jpg",
+      "PackagePath": "staticwebassets\\images\\mental.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\midlife.jpg",
+      "PackagePath": "staticwebassets\\images\\midlife.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\ptsd.jpg",
+      "PackagePath": "staticwebassets\\images\\ptsd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\regret.jpg",
+      "PackagePath": "staticwebassets\\images\\regret.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\rejection.jpg",
+      "PackagePath": "staticwebassets\\images\\rejection.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\rumination.jpg",
+      "PackagePath": "staticwebassets\\images\\rumination.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\season.jpg",
+      "PackagePath": "staticwebassets\\images\\season.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\skydiving.jpg",
+      "PackagePath": "staticwebassets\\images\\skydiving.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\song.jpg",
+      "PackagePath": "staticwebassets\\images\\song.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\images\\tiktok.jpg",
+      "PackagePath": "staticwebassets\\images\\tiktok.jpg"
     },
     {
       "Id": "C:\\Users\\Mint\\Desktop\\Projects\\MintPsyBlog\\wwwroot\\js\\site.js",
