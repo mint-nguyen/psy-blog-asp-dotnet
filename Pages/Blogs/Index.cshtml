@@ -10,6 +10,15 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+@{
+    var reversedBlogs = Model.Blog.Reverse().ToList();
+}
+
+<h1>
+    
+        @reversedBlogs.Count()
+    
+</h1>
 <table class="table">
     <thead>
         <tr>
@@ -31,8 +40,10 @@
             <th></th>
         </tr>
     </thead>
+  
     <tbody>
-@foreach (var item in Model.Blog) {
+        @foreach (var item in reversedBlogs)
+        {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
@@ -47,7 +58,7 @@
                 @Html.DisplayFor(modelItem => item.Category)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Image)
+                    <img class="max-w-none w-52 h-52" src="@Url.Content(item.Image)" alt="Description" />
             </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
